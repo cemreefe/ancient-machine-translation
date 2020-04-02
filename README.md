@@ -1,4 +1,4 @@
-![img](https://github.com/cemreefe/ancient-machine-translation/blob/master/media/assyrian-relief.jpg?raw=true)
+![img](https://github.com/cemreefe/ancient-machine-translation/blob/master/media/cuneiform.gif?raw=true)
 
 # Machine Translation for Ancient Languages
 > In this repository I'll play around with the idea of using machine translation techniques to perform translations to and from ancient languages including Akkadian, Ancient Greek, Ancient Egyptian etc.
